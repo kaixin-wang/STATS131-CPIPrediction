@@ -5,7 +5,7 @@ Project: CPI prediction.
 
 Group members: Kaixin Wang, Qin Hu, Yiqiao Zhang and Emily Suan.
 
-Please go to the file under Datasets for the notebook.
+Please refer to the notebook under Datasets.
 
 
 
