@@ -1,15 +1,15 @@
 # STATS 131 - Spring 2019
-## Repository for group project
-
-Project: CPI prediction.
+## Repository for CPI prediction project
 
 Group members: Kaixin Wang, Qin Hu, Yiqiao Zhang and Emily Suan.
 
-Please refer to the notebook under Datasets.
+Project objective: CPI prediction of different countries based on macroeconomic predictors.
+
+Datasets: from database of ![United Nations](http://data.un.org/)
+
+Source code: under Datasets folder.
+
+Rendered Html file is also avaible above.
 
 
 
-
-References:
-- https://www.investopedia.com/terms/c/consumerpriceindex.asp
-- https://www.bls.gov/cpi/overview.htm#item2
