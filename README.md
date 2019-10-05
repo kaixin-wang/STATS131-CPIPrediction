@@ -9,6 +9,6 @@ Datasets: from the database of [United Nations](http://data.un.org/).
 
 Source code: under Datasets folder.
 
-Click [here](./blob/master/Project_Slides.pdf) for the presentation slides.
+Click [here](https://github.com/kaixin-wang/STATS131-CPIPrediction/blob/master/Project%20Slides.pdf) for the presentation slides.
 
 Click [here](https://github.com/kaixin-wang/STATS131-CPIPrediction/blob/master/STATS131-GroupProject.html) for the rendered `html` file.
