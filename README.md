@@ -9,7 +9,9 @@ Datasets: from the database of [United Nations](http://data.un.org/).
 
 Source code: under Datasets folder.
 
-Rendered Html file is also avaible above.
+Click [here](../blob/master/Project Slides.pdf) for the presentation slides.
+
+Click [here](../blob/master/STATS131-GroupProject.html) for the rendered `html` file.
 
 
 
